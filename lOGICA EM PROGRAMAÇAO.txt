@@ -1,0 +1,44 @@
+Ligics e numerosas solucoes
+
+Problema
+Proposta duvidosa
+A logica soluciona problemas
+Definiçao formal
+Problema e uma determinada que foge de uma regra
+ou melho e um desvio
+de percurso o qual impede de atingir um objetivo, com eficiencia e eficacia
+
+O que e logica?
+Parte da filosofia que trata das formas do pensamento
+em geral, dedicaçao, induçao hipotese, indiferença etc e das interaçoes, que visao
+determinaçao do que e verdadeiro, ou nao maneira de pensar pensamento estruturado
+
+
+Ordenaçao que segue convençao 
+Organizaçao Coesia, logica
+Firma como desncadeiam acontecimentos
+Forma de raciocinio
+
+LOGICA E Organizaçao E PLANEJAMENTO DAS INSTRUÇOES
+ASSERTIVA EM UM ALGORTIMO A DE VIABILIZAR A IMPLATAÇAO DE UM PROGRAMA
+
+TECNICAS PARA COMEÇAR A PROGRAMAR
+o ARQUITETO VAI E VERIFICA O TERRENO, VE QUAIS OS REQUISITOS ELE TEM,
+VERIFICA O PROJETO E FAZ O PLANEJAMENTO
+ESTRUTURA
+ORDENAÇAO DOS ELEMENTOS
+ACORDAR FAZER O CAFE
+TOMAR CAFE
+
+ORGANIZAR AS ESTRUTURA
+FACILITA O ENTENDIMENTO, A ESCRITA VALIDAÇAO MANUNTENÇAO
+
+
+TECNICAS MODELAR
+MODELO 1
+MODELO 2 MODELO 3
+
+DADOS DE ENTRADA
+PROCESSO DE TRENSFORMAÇAO
+DADOS DE SAIDA 
+
